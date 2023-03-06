@@ -35,3 +35,20 @@ System.out.println();
 printPattern(n);  
 }  
 }  
+ameer alaina
+love you paapa
+[
+    [
+        [
+            [
+                [
+                    [
+                        [
+                            love you chellamae
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+]
